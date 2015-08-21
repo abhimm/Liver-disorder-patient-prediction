@@ -1,0 +1,60 @@
+Boosting iteration: 1
+Training error: 0.315942
+Optimal feature: 4
+Optimal threshold: 20.500000
+Class label: -1.000000
+--------------------------
+Boosting iteration: 2
+Training error: 0.313191
+Optimal feature: 2
+Optimal threshold: 26.500000
+Class label: 1.000000
+--------------------------
+Boosting iteration: 3
+Training error: 0.297332
+Optimal feature: 3
+Optimal threshold: 19.500000
+Class label: -1.000000
+--------------------------
+Boosting iteration: 4
+Training error: 0.303205
+Optimal feature: 1
+Optimal threshold: 59.500000
+Class label: 1.000000
+--------------------------
+Boosting iteration: 5
+Training error: 0.300176
+Optimal feature: 5
+Optimal threshold: 5.500000
+Class label: 1.000000
+--------------------------
+Boosting iteration: 6
+Training error: 0.298520
+Optimal feature: 4
+Optimal threshold: 35.500000
+Class label: -1.000000
+--------------------------
+Boosting iteration: 7
+Training error: 0.295253
+Optimal feature: 2
+Optimal threshold: 19.500000
+Class label: 1.000000
+--------------------------
+Boosting iteration: 8
+Training error: 0.307933
+Optimal feature: 4
+Optimal threshold: 7.500000
+Class label: -1.000000
+--------------------------
+Boosting iteration: 9
+Training error: 0.295359
+Optimal feature: 0
+Optimal threshold: 88.500000
+Class label: 1.000000
+--------------------------
+Boosting iteration: 10
+Training error: 0.294005
+Optimal feature: 5
+Optimal threshold: 3.500000
+Class label: -1.000000
+--------------------------
